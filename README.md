@@ -77,6 +77,5 @@ Built on top of [Bloxstrap](https://github.com/bloxstraplabs/bloxstrap) by pizza
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="width: 33%; text-align: left;">© Taztrap</td>
-    <td style="width: 33%; text-align: right;"><a href="https://github.com/taztrap/Taztrap/blob/main/LICENSE.TAZTRAP" target="_blank">MIT</a></td>
   </tr>
 </table>
