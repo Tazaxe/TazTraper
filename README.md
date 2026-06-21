@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="content.png" width="180"/>
+</p>
+
 <h1 align="center"><b>Taztrap</b></h1>
 
 </div>
