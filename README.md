@@ -6,29 +6,38 @@
 
 </div>
 
-<h5 align="center">
+<h5 align="center" style="color:#1F6FEB;">
 Leave a star if you like the project! ⭐️
 </h5>
 
-> [!IMPORTANT]
-> Taztrap currently supports **Windows 10 and above**.  
-> **macOS support is in the works**, but it is not available yet.
->
-> In the meantime, you can use **[AppleBlox](https://github.com/AppleBlox/appleblox)** *(for macOS)* or **[Sober](https://sober.vinegarhq.org/)** *(for Linux)*.  
-> More experienced Linux users can also try tools like **[Lution](https://github.com/wookhq/Lution)**.
+<p align="center" style="color:#A020F0; font-weight:bold;">
+[!IMPORTANT]
+</p>
+
+<p align="center" style="color:#A020F0;">
+Taztrap currently supports <b>Windows 10 and above</b>.<br>
+<b>macOS support is in the works</b>, but it is not available yet.
+<br><br>
+In the meantime, you can use <b><a href="https://github.com/AppleBlox/appleblox">AppleBlox</a></b> (for macOS) or <b><a href="https://sober.vinegarhq.org/">Sober</a></b> (for Linux).<br>
+More experienced Linux users can also try tools like <b><a href="https://github.com/wookhq/Lution">Lution</a></b>.
+</p>
+
+---
 
 ## Find Me
 1. **Roblox:** [@TazAxeYTT](https://www.roblox.com/users/3454124769/profile)
 2. **YouTube:** [@TazAxe](https://www.youtube.com/@TazAxe)
 3. **Discord:** [@Taz's Basement](https://discord.gg/CezGacjnr5)
 
+---
+
 ## Installation
 
-1. Download the latest version
-   👉 https://github.com/Tazaxe/TazTraper/releases
-2. Run the Exe and Finish the setup
-3. Launch Taztrap
-4. Enjoy a more simple Roblox
+1. Download the latest version  
+   👉 https://github.com/Tazaxe/TazTraper/releases  
+2. Run the Exe and finish the setup  
+3. Launch Taztrap  
+4. Enjoy a more simple Roblox  
 
 ---
 
@@ -53,10 +62,10 @@ Leave a star if you like the project! ⭐️
 
   You can verify the source code yourself at:
   https://github.com/Tazaxe/TazTraper
-  or just scroll up dummy <!-- hada add this -->
 </details>
 
-<!-- Removed build will prob show how to do that in a later date im lazy for rn -->
+---
+
 ## How to Fork
 
 <p align="left">
@@ -71,9 +80,11 @@ Taztrap is built using **C# and .NET**
 ### Fork the Repository
 
 1. Go to:  
-   https://github.com/Tazaxe/TazTraper
-2. Click **Fork** (top right)
-3. This creates your own copy under your GitHub account
+   https://github.com/Tazaxe/TazTraper  
+2. Click **Fork** (top right)  
+3. This creates your own copy under your GitHub account  
+
+---
 
 ## Credits
 Built on top of [Bloxstrap](https://github.com/bloxstraplabs/bloxstrap) by pizzaboxer
